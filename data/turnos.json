@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombreCliente": "Laura Gómez",
+    "nombreMascota": "Max",
+    "especie": "Perro",
+    "tipoServicio": "Vacunación anual",
+    "fechaHora": "2026-11-27 09:30",
+    "precioBase": 50000,
+    "prioritario": false,
+    "porcentajeRecargo": 0,
+    "valorRecargo": 0,
+    "totalPagar": 50000,
+    "fechaRegistro": "2026-11-26T15:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "nombreCliente": "Carlos Ramírez",
+    "nombreMascota": "Luna",
+    "especie": "Gato",
+    "tipoServicio": "Consulta veterinaria de urgencia",
+    "fechaHora": "2026-11-27 11:00",
+    "precioBase": 80000,
+    "prioritario": true,
+    "porcentajeRecargo": 4,
+    "valorRecargo": 3200,
+    "totalPagar": 83200,
+    "fechaRegistro": "2026-11-26T15:05:00.000Z"
+  }
+]
