@@ -17,7 +17,7 @@ Ordenados alfabéticamente por apellido según el listado oficial de asistencia 
 - **Valor de `N` asignado al equipo:** `N = 2` (corresponde al número de lista oficial del primer integrante al ordenar el equipo alfabéticamente por apellido: **Arevalo Quimbay, Karoll Juliana — #2**).
 - **Porcentaje de recargo aplicable:**
 
-$$\text{porcentajeRecargo} = N \times 2\% = 2 \times 2\% = 4\%$$
+**porcentajeRecargo = N × 2% = 2 × 2% = 4%**
 
 - **Aplicación en la capa `services/turnos.service.js`:**
   - Si el turno enviado en `POST /api/turnos` incluye `"prioritario": true`:
