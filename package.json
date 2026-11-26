@@ -1,0 +1,13 @@
+{
+  "name": "api-turnos-veterinaria-ciaf",
+  "version": "1.0.0",
+  "description": "API REST por capas en Node.js y Express para la gestión de turnos de la Clínica Veterinaria Huellas del Eje (Taller Final - Arquitectura Cliente-Servidor, CIAF).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
